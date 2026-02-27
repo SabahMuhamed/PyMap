@@ -43,4 +43,4 @@ python PyMap.py
 # Screenshot
 
 
-![PyMap Screenshot](screenshot.png)
+![PyMap Screenshot](img/Pymap.png)
